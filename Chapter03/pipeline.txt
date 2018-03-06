@@ -1,0 +1,5 @@
+set mykey myvalue
+sadd myset value1 value2
+get mykey
+scard myset
+
